@@ -1,0 +1,111 @@
+$prefix: '/assets/fonts/Ilisarniq/';
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-Light.eot');
+  src: url($prefix + 'Ilisarniq-Light.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-Light.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-Light.woff') format('woff'),
+       url($prefix + 'Ilisarniq-Light.ttf')  format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-LightItalic.eot');
+  src: url($prefix + 'Ilisarniq-LightItalic.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-LightItalic.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-LightItalic.woff') format('woff'),
+       url($prefix + 'Ilisarniq-LightItalic.ttf')  format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-Regular.eot');
+  src: url($prefix + 'Ilisarniq-Regular.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-Regular.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-Regular.woff') format('woff'),
+       url($prefix + 'Ilisarniq-Regular.ttf')  format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-Italic.eot');
+  src: url($prefix + 'Ilisarniq-Italic.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-Italic.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-Italic.woff') format('woff'),
+       url($prefix + 'Ilisarniq-Italic.ttf')  format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-Demi.eot');
+  src: url($prefix + 'Ilisarniq-Demi.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-Demi.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-Demi.woff') format('woff'),
+       url($prefix + 'Ilisarniq-Demi.ttf')  format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-DemiItalic.eot');
+  src: url($prefix + 'Ilisarniq-DemiItalic.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-DemiItalic.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-DemiItalic.woff') format('woff'),
+       url($prefix + 'Ilisarniq-DemiItalic.ttf')  format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-Bold.eot');
+  src: url($prefix + 'Ilisarniq-Bold.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-Bold.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-Bold.woff') format('woff'),
+       url($prefix + 'Ilisarniq-Bold.ttf')  format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-BoldItalic.eot');
+  src: url($prefix + 'Ilisarniq-BoldItalic.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-BoldItalic.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-BoldItalic.woff') format('woff'),
+       url($prefix + 'Ilisarniq-BoldItalic.ttf')  format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-Black.eot');
+  src: url($prefix + 'Ilisarniq-Black.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-Black.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-Black.woff') format('woff'),
+       url($prefix + 'Ilisarniq-Black.ttf')  format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url($prefix + 'Ilisarniq-BlackItalic.eot');
+  src: url($prefix + 'Ilisarniq-BlackItalic.eot?#iefix') format('embedded-opentype'),
+       url($prefix + 'Ilisarniq-BlackItalic.woff2') format('woff2'),
+       url($prefix + 'Ilisarniq-BlackItalic.woff') format('woff'),
+       url($prefix + 'Ilisarniq-BlackItalic.ttf')  format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
