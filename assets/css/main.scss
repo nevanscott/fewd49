@@ -4,7 +4,7 @@
 @import 'normalize';
 @import 'syntax';
 
-$sans:		'Whitney SSm A', 'Whitney SSm B', sans-serif;
+$sans:		'Whitney SSm A', 'Whitney SSm B', system-ui, sans-serif;
 $lh:			1.7;
 
 $brand:		#F3F2EF;
@@ -237,7 +237,7 @@ article {
 #nav {
   border-top: 2px solid darken($brand, 30%);
   li {
-		margin: .2em*$lh 0;  
+		margin: .2em*$lh 0;
   }
   background: $brand;
 }
